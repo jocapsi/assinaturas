@@ -1,2 +1,2 @@
-# reimagined-octo-potato
+# minhas assinaturas
 Assinaturas GPG
